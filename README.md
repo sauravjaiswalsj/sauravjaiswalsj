@@ -4,9 +4,10 @@
 
 ````bash
 > help --info
+
 > Hails from India.
 > Pronouns: "He" | "Him"
-> I work as a Software Development Engineer @DatacoreSoftware.
+> I am a Researcher & Software Development Engineer @DatacoreSoftware.
 > I have recently graduated from Sathyabama Institute of Science and Technology, Chennai (2020).
 > Is currently exploring the world of Software Defined Storage to see what all the fuss is about.
 > I have had the privilege of learning from my experiences and mentors at DataCore, CTS, Fnplus.tech, Girl Script and SIST-Chennai
