@@ -27,7 +27,7 @@
 ### <p align="center">Currently pursuing MSc in Computer Science at University of Warwick</p>
 
 
-### What I am focusing on:
+### What I am working on:
 
 - **Apache Fluss** - a streaming storage built for real-time analytics
 
