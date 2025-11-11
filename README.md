@@ -43,11 +43,8 @@
 
 <div align="center">
 <sub>5 years building systems at scale | CommBank • WorldQuant • DataCore</sub>
+  <br />
+<sub>⭐️ From <a href="https://github.com/sauravjaiswalsj">sauravjaiswalsj</a> | Let's connect and build something amazing together! 🚀</sub>
 </div>
----
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
-  
-  <p>⭐️ From <a href="https://github.com/sauravjaiswalsj">sauravjaiswalsj</a> | Let's connect and build something amazing together! 🚀</p>
-</div>
+---
