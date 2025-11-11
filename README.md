@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
   <h1>Hi, I'm Saurav Jaiswal</h1>
-  <h3>Software Development Engineer | Cloud Enthusiast | Problem Solver</h3>
+  <h3>Software Development Engineer | MSc CS @Warwick | Problem Solver</h3>
   
   <p align="center">
     <a href="https://www.linkedin.com/in/sauravjaiswalsj">
@@ -23,72 +23,29 @@
 
 ---
 
-## 👨‍💻 About Me
+### <p align="center">and I'm a Software Engineer specializing in distributed systems and AI.</p>
+### <p align="center">Currently pursuing MSc in Computer Science at University of Warwick</p>
 
-```python
-class SauravJaiswal:
-    def __init__(self):
-        self.location = "Chennai, India 🇮🇳"
-        self.pronouns = ["He", "Him"]
-        self.role = "Researcher & Software Development Engineer"
-        self.company = "@DatacoreSoftware"
-        self.education = "Sathyabama Institute of Science and Technology (2020)"
-        self.interests = [
-            "Software Defined Storage",
-            "Cloud Technologies",
-            "Distributed Systems",
-            "System Design"
-        ]
-        self.hobbies = ["Reading 📚", "Piano 🎹", "Cooking 🍳", "Stargazing 🌌"]
-        
-    def current_focus(self):
-        return "Exploring the fascinating world of Software Defined Storage"
-        
-    def learning_from(self):
-        return "Amazing mentors at DataCore, CTS, Fnplus.tech, and Girl Script"
-```
+
+### What I am focusing on:
+
+- **Apache Fluss** - a streaming storage built for real-time analytics
+
+### What I build:
+- **Scalable Microservices**: Event-driven architectures processing millions of transactions (CommBank)
+- **Gen-AI Systems**: Multi-agent orchestration platforms for financial analytics (CommBank)
+- **Storage Solutions**: Enterprise-grade distributed storage serving customers (Datacore)
+- **Trading Systems**: Quantitative strategies (WorldQuant)
+
+### Current Focus
+
+`Distributed Systems` · `High-Performance Computing` · `LLMs & RAG` · `Artificial Intelligence` . `Agentic AI`
 
 ---
 
-## 🚀 Tech Stack
-
 <div align="center">
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### Technologies & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
+<sub>5 years building systems at scale | CommBank • WorldQuant • DataCore</sub>
 </div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sauravjaiswalsj&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sauravjaiswalsj&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravjaiswalsj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</div>
-
----
-
-## 💡 Fun Fact
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&borderColor=transparent" alt="Jokes Card" />
-</div>
-
 ---
 
 <div align="center">
