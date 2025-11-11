@@ -41,8 +41,6 @@
 
 `Distributed Systems` · `High-Performance Computing` · `LLMs & RAG` · `Artificial Intelligence` . `Agentic AI`
 
----
-
 <div align="center">
 <sub>5 years building systems at scale | CommBank • WorldQuant • DataCore</sub>
 </div>
@@ -50,8 +48,6 @@
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
-  
-  ### "The glass is twice as large as necessary." — A Programmer's Perspective
   
   <p>⭐️ From <a href="https://github.com/sauravjaiswalsj">sauravjaiswalsj</a> | Let's connect and build something amazing together! 🚀</p>
 </div>
