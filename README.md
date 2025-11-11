@@ -23,9 +23,8 @@
 
 ---
 
-### <p align="center">and I'm a Software Engineer specializing in distributed systems and AI.</p>
 ### <p align="center">Currently pursuing MSc in Computer Science at University of Warwick</p>
-
+### <p align="center">specializing in distributed systems and AI.</p>
 
 ### What I am working on:
 
