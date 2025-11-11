@@ -22,9 +22,7 @@
 </div>
 
 ---
-
-### <p align="center">Currently pursuing MSc in Computer Science at University of Warwick</p>
-### <p align="center">specializing in distributed systems and AI.</p>
+ <p align="center">Currently pursuing MSc in Computer Science at the University of Warwick. <br /> specializing in distributed systems and AI.</p>
 
 ### What I am working on:
 
