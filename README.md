@@ -25,7 +25,7 @@
  <p align="center">Currently pursuing MSc in Computer Science at the University of Warwick. <br /> specializing in distributed systems and AI.</p>
 
 ### What I am working on:
-
+- **LogStore** - a distributed append-only logging system
 - **Apache Fluss** - a streaming storage built for real-time analytics
 
 ### What I build:
