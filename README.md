@@ -26,7 +26,7 @@
 
 ### What I am working on:
 - **LogStore** - a distributed append-only logging system
-- **Apache Fluss** - a streaming storage built for real-time analytics
+- **Cortex Machine** - Building SuperMemory for Multi-Agent Systems
 
 ### What I build:
 - **Scalable Microservices**: Event-driven architectures processing millions of transactions (CommBank)
